@@ -2,14 +2,14 @@ body{
     background-color: blue;
 }
 .background{
-    background-color: yellow;
-}
-.popefrancisisknownfor{
-    background-color: chartreuse;
-}
-.popefranciseschildren{
     background-color: red;
 }
+.popefrancisisknownfor{
+    background-color: yellow;
+}
+.popefranciseschildren{
+    background-color: chartreuse;
+}
 .aboutpopefrancis{
-    background-color: blue;
+    background-color: darkblue;
 }
